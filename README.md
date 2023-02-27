@@ -8,7 +8,7 @@ I love to play games and I’m a highly-motivated and open-minded computer engin
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
-* 👉  I'm currently working on
+#### 👉  I'm currently working on
 * 🔥  [MiimoAI](http://miimo.ai) (Main Job)
 * 🏡  City Building Game (Hobby)
 
