@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thaithanach Thianpradabchok
 ===================================================================================================================================================
 
-Game Developer
+Software Developer
 --------------
 
-I love to play games and I’m a highly-motivated and open-minded computer engineer who is passionate about game development.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
