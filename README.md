@@ -10,8 +10,8 @@ and batch jobs.
 ### What I do
 
 - **System design & code review** — I surface edge cases early in design reviews
-  and have reviewed and approved 350+ merge requests across in-house and vendor
-  teams. I think these are the skills that compound in the AI era.
+  and review code across in-house and vendor teams. I think these are the skills
+  that compound in the AI era.
 - **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
 - **Performance engineering** — built and run k6 load-test suites across the
   platform, including capacity testing its API gateway edge to find the real
