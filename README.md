@@ -4,8 +4,8 @@
 
 I build and load-test high-concurrency backend systems. Currently at
 **Arise by Infinitas** (Krungthai Bank group), working on a mutual-fund trading
-platform of **450+ Go microservices** — REST APIs, Kafka stream subscribers, and
-batch jobs.
+platform of **hundreds of Go microservices** — REST APIs, Kafka stream subscribers,
+and batch jobs.
 
 ### What I do
 
