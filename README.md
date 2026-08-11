@@ -1,4 +1,4 @@
-# Hi, I'm Thaithanach (Theme) 👋
+# Thaithanach Thianpradabchok (Theme)
 
 **Backend Engineer · Golang · FinTech**
 
@@ -9,22 +9,22 @@ batch jobs.
 
 ### What I do
 
-- ⚙️ **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
-- 📈 **Performance engineering** — I've built and run k6 load-test suites for 30+
-  services, and capacity-tested our API gateway edge to find its real ceiling
-  (and its single-point-of-failure risk) before production found it for us
-- 🤖 **AI developer tooling** — built an internal AI-assisted log investigation tool
+- **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
+- **Performance engineering** — built and run k6 load-test suites for 30+
+  services, including capacity testing the platform's API gateway edge to find
+  its real limits before production did
+- **AI developer tooling** — built an internal AI-assisted log investigation tool
   (Go + Kubernetes + GitLab API + LLM tool-calling) that lets QA testers diagnose
   root causes without pinging a developer
-- 🎮 **Past life**: game developer (Unity/C#) on a block-based coding game for kids
+- Previously a game developer (Unity/C#) on a block-based coding game for kids
 
 ### Toolbox
 
 `Go` `MySQL` `Redis` `Kafka` `MongoDB` `Docker` `Kubernetes` `GCP` `k6` `C#`
 
-### Reach me
+### Contact
 
-- 🌍 Bangkok, Thailand
-- ✉️ [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thaithanach-thianpradabchok-a23b641a3/)
-- 🌐 [themethaithian.cc](https://www.themethaithian.cc/)
+- Bangkok, Thailand
+- [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thaithanach-thianpradabchok/)
+- [themethaithian.cc](https://www.themethaithian.cc/)
