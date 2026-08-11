@@ -9,6 +9,9 @@ batch jobs.
 
 ### What I do
 
+- **System design & code review** — I lead technical grooming and design reviews,
+  and have reviewed and approved 350+ merge requests across in-house and vendor
+  teams. I think these are the skills that compound in the AI era.
 - **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
 - **Performance engineering** — built and run k6 load-test suites for 30+
   services, including capacity testing the platform's API gateway edge to find
