@@ -13,9 +13,9 @@ and batch jobs.
   and have reviewed and approved 350+ merge requests across in-house and vendor
   teams. I think these are the skills that compound in the AI era.
 - **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
-- **Performance engineering** — built and run k6 load-test suites for 30+
-  services, including capacity testing the platform's API gateway edge to find
-  its real limits before production did
+- **Performance engineering** — built and run k6 load-test suites across the
+  platform, including capacity testing its API gateway edge to find the real
+  limits before production did
 - **AI developer tooling** — built an internal AI-assisted log investigation tool
   (Go + Kubernetes + GitLab API + LLM tool-calling) that lets QA testers diagnose
   root causes without pinging a developer
