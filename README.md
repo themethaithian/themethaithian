@@ -1,21 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thaithanach Thianpradabchok
-===================================================================================================================================================
+# Hi, I'm Thaithanach (Theme) 👋
 
-Software Engineer
---------------
+**Backend Engineer · Golang · FinTech**
 
+I build and load-test high-concurrency backend systems. Currently at
+**Arise by Infinitas** (Krungthai Bank group), working on a mutual-fund trading
+platform of **450+ Go microservices** — REST APIs, Kafka stream subscribers, and
+batch jobs.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
+### What I do
 
-### Skills
+- ⚙️ **Event-driven backends** — Go, Kafka, MySQL, Redis, MongoDB on Kubernetes/GCP
+- 📈 **Performance engineering** — I've built and run k6 load-test suites for 30+
+  services, and capacity-tested our API gateway edge to find its real ceiling
+  (and its single-point-of-failure risk) before production found it for us
+- 🤖 **AI developer tooling** — built an internal AI-assisted log investigation tool
+  (Go + Kubernetes + GitLab API + LLM tool-calling) that lets QA testers diagnose
+  root causes without pinging a developer
+- 🎮 **Past life**: game developer (Unity/C#) on a block-based coding game for kids
 
-<p align="left">
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+### Toolbox
 
-### Socials
+`Go` `MySQL` `Redis` `Kafka` `MongoDB` `Docker` `Kubernetes` `GCP` `k6` `C#`
 
-<p align="left"> <a href="https://www.linkedin.com/in/thaithanach-thianpradabchok-a23b641a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Reach me
+
+- 🌍 Bangkok, Thailand
+- ✉️ [thaithian1999@gmail.com](mailto:thaithian1999@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaithanach-thianpradabchok-a23b641a3/)
+- 🌐 [themethaithian.cc](https://www.themethaithian.cc/)
